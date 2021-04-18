@@ -1,7 +1,7 @@
 [![Download linuxmobile GSIs](https://sourceforge.net/sflogo.php?type=14&group_id=3279351)](https://sourceforge.net/p/linuxmobilegsis/)
 [![Download linuxmobile GSIs](https://img.shields.io/sourceforge/dt/yumi-project.svg)](https://sourceforge.net/projects/linuxmobilegsis/files/latest/download)
 
-### Actions for GSIs - to: YuMi GSIs
+### Actions for GSIs - to: amyGSI
 
 # Notes
 * Enable the Actions in repository.
