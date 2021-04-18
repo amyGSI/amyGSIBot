@@ -61,7 +61,7 @@ jobs:
               echo "bot-sf-pass=${{ secrets.SF_PASS }}" >> sf-creds.config
               echo "bot-sf-proj=oem-ports" >> sf-creds.config
               echo "bot-sf-user=dev-00p513" >> sf-creds.config
-              echo "bot-announcement-id=amyGSI" >> sf-creds.config
+              echo "bot-announcement-id=@amyGSI" >> sf-creds.config
               echo "bot-sf-host=frs.sourceforge.net" >> sf-creds.config
               echo "bot-send-announcement=true" >> sf-creds.config
               echo '["824133226", "1456078796"]' >> allowed2port.json
