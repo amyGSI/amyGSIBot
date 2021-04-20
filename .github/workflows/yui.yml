@@ -87,7 +87,7 @@ jobs:
               expect -c "
               spawn git push -f 
               expect \"Username\"
-              send \"aaaaaaaaaaaaaaaaaaa1\r\"
+              send \"00p513-dev\r\"
               expect \"Password\"
               send \"${{ secrets.PASSWORD }}\r\"
               expect \"master -> master\"
